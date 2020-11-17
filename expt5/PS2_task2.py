@@ -25,12 +25,12 @@ def syndrome_decode(codeword, n, k, G):
     S = np.mod(np.dot(codeword, H_transpose), 2)  # Syndrome
     # print('H_transpose:\n',H_transpose)
     if np.array_equal(S, np.zeros(q)):
-        return codeword[:-q]
+        return (S,codeword[:-q])
     else:
         for i, row in enumerate(H_transpose):
             if np.array_equal(S, row):
                 codeword[i] ^= 1
-                return codeword[:-q]
+                return (S,codeword[:-q])
 
 def validate_and_print_result(n, k, Generator_matrix):
     # generate 2**k = 16 datawords

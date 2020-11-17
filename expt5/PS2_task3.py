@@ -14,12 +14,12 @@ def test_single_bit_error(n, k, datawords, codewords, syndrome_decode, Generator
         for err in range(n):
             # create single bit error
             codeword[err] ^= 1
-            print(f'testing {codeword}', end=' ')
+            print(f'\ntesting {codeword}')
 
-            pred_dataword = syndrome_decode(codeword, n, k, Generator_matrix)
+            s,pred_dataword = syndrome_decode(codeword, n, k, Generator_matrix)
 
             if np.array_equal(pred_dataword, datawords[i]):
-                print(f'...passed  deciphered dataword {pred_dataword}')
+                print(f'single bit error found!\nsyndrome : {s} \n...passed , \ndeciphered dataword : {pred_dataword}')
             else:
                 print(
                     f'OOPS: Error decoding {codeword} ...expected {datawords[i]} got {pred_dataword}')
@@ -29,10 +29,10 @@ def test_codewords(n, k, datawords, codewords, syndrome_decode, Generator_matrix
     print(f'Testing all 2**k = {2**k} valid codewords')
     print()
     for i, codeword in enumerate(codewords):
-        print(f'testing {list(datawords[i])}', end=' ')
-        pred_dataword = syndrome_decode(codeword, n, k, Generator_matrix)
+        print(f'testing {list(datawords[i])}')
+        s,pred_dataword = syndrome_decode(codeword, n, k, Generator_matrix)
         if np.array_equal(pred_dataword, datawords[i]):
-            print('...passed')
+            print(f'...passed,\nno error found!,\nSyndrome: {s}')
         else:
             print(
                 f'OOPS: Error decoding {codeword} ...expected {datawords[i]} got {pred_dataword}')
