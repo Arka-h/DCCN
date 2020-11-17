@@ -1,0 +1,1266 @@
+Testing all codewords...
+passed...
+passed...
+passed...
+passed...
+passed...
+detected error at (1, 1) for codeword : 
+[[0 0 0]
+ [0 0 1]
+ [0 1 0]]
+Corrected message_sequence : 
+ [[0 0]
+ [0 1]] 
+
+detected error at (1, 0) for codeword : 
+[[0 0 0]
+ [0 0 1]
+ [1 0 0]]
+Corrected message_sequence : 
+ [[0 0]
+ [1 0]] 
+
+detected error at (1, 1) for codeword : 
+[[0 0 0]
+ [0 0 1]
+ [1 1 0]]
+Corrected message_sequence : 
+ [[0 0]
+ [0 1]] 
+
+detected error at (1, 1) for codeword : 
+[[0 0 0]
+ [0 1 0]
+ [0 0 0]]
+Corrected message_sequence : 
+ [[0 0]
+ [0 0]] 
+
+passed...
+detected error at (1, 1) for codeword : 
+[[0 0 0]
+ [0 1 0]
+ [1 0 0]]
+Corrected message_sequence : 
+ [[0 0]
+ [0 0]] 
+
+detected error at (1, 0) for codeword : 
+[[0 0 0]
+ [0 1 0]
+ [1 1 0]]
+Corrected message_sequence : 
+ [[0 0]
+ [1 1]] 
+
+passed...
+passed...
+passed...
+passed...
+detected error at (1, 0) for codeword : 
+[[0 0 0]
+ [1 0 0]
+ [0 0 0]]
+Corrected message_sequence : 
+ [[0 0]
+ [0 0]] 
+
+detected error at (1, 1) for codeword : 
+[[0 0 0]
+ [1 0 0]
+ [0 1 0]]
+Corrected message_sequence : 
+ [[0 0]
+ [1 1]] 
+
+passed...
+detected error at (1, 1) for codeword : 
+[[0 0 0]
+ [1 0 0]
+ [1 1 0]]
+Corrected message_sequence : 
+ [[0 0]
+ [1 1]] 
+
+passed...
+passed...
+passed...
+passed...
+passed...
+passed...
+passed...
+passed...
+detected error at (1, 1) for codeword : 
+[[0 0 0]
+ [1 1 1]
+ [0 0 0]]
+Corrected message_sequence : 
+ [[0 0]
+ [1 0]] 
+
+detected error at (1, 0) for codeword : 
+[[0 0 0]
+ [1 1 1]
+ [0 1 0]]
+Corrected message_sequence : 
+ [[0 0]
+ [0 1]] 
+
+detected error at (1, 1) for codeword : 
+[[0 0 0]
+ [1 1 1]
+ [1 0 0]]
+Corrected message_sequence : 
+ [[0 0]
+ [1 0]] 
+
+passed...
+passed...
+detected error at (0, 1) for codeword : 
+[[0 0 1]
+ [0 0 0]
+ [0 1 0]]
+Corrected message_sequence : 
+ [[0 1]
+ [0 0]] 
+
+detected error at (0, 0) for codeword : 
+[[0 0 1]
+ [0 0 0]
+ [1 0 0]]
+Corrected message_sequence : 
+ [[1 0]
+ [0 0]] 
+
+detected error at (0, 1) for codeword : 
+[[0 0 1]
+ [0 0 0]
+ [1 1 0]]
+Corrected message_sequence : 
+ [[0 1]
+ [0 0]] 
+
+passed...
+detected error at (1, 1) for codeword : 
+[[0 0 1]
+ [0 0 1]
+ [0 1 0]]
+Corrected message_sequence : 
+ [[0 0]
+ [0 1]] 
+
+detected error at (1, 0) for codeword : 
+[[0 0 1]
+ [0 0 1]
+ [1 0 0]]
+Corrected message_sequence : 
+ [[0 0]
+ [1 0]] 
+
+detected error at (1, 1) for codeword : 
+[[0 0 1]
+ [0 0 1]
+ [1 1 0]]
+Corrected message_sequence : 
+ [[0 0]
+ [0 1]] 
+
+detected error at (1, 1) for codeword : 
+[[0 0 1]
+ [0 1 0]
+ [0 0 0]]
+Corrected message_sequence : 
+ [[0 0]
+ [0 0]] 
+
+passed...
+detected error at (1, 1) for codeword : 
+[[0 0 1]
+ [0 1 0]
+ [1 0 0]]
+Corrected message_sequence : 
+ [[0 0]
+ [0 0]] 
+
+detected error at (1, 0) for codeword : 
+[[0 0 1]
+ [0 1 0]
+ [1 1 0]]
+Corrected message_sequence : 
+ [[0 0]
+ [1 1]] 
+
+detected error at (0, 1) for codeword : 
+[[0 0 1]
+ [0 1 1]
+ [0 0 0]]
+Corrected message_sequence : 
+ [[0 1]
+ [0 1]] 
+
+passed...
+detected error at (0, 1) for codeword : 
+[[0 0 1]
+ [0 1 1]
+ [1 0 0]]
+Corrected message_sequence : 
+ [[0 1]
+ [0 1]] 
+
+detected error at (0, 0) for codeword : 
+[[0 0 1]
+ [0 1 1]
+ [1 1 0]]
+Corrected message_sequence : 
+ [[1 0]
+ [0 1]] 
+
+detected error at (1, 0) for codeword : 
+[[0 0 1]
+ [1 0 0]
+ [0 0 0]]
+Corrected message_sequence : 
+ [[0 0]
+ [0 0]] 
+
+detected error at (1, 1) for codeword : 
+[[0 0 1]
+ [1 0 0]
+ [0 1 0]]
+Corrected message_sequence : 
+ [[0 0]
+ [1 1]] 
+
+passed...
+detected error at (1, 1) for codeword : 
+[[0 0 1]
+ [1 0 0]
+ [1 1 0]]
+Corrected message_sequence : 
+ [[0 0]
+ [1 1]] 
+
+detected error at (0, 0) for codeword : 
+[[0 0 1]
+ [1 0 1]
+ [0 0 0]]
+Corrected message_sequence : 
+ [[1 0]
+ [1 0]] 
+
+detected error at (0, 1) for codeword : 
+[[0 0 1]
+ [1 0 1]
+ [0 1 0]]
+Corrected message_sequence : 
+ [[0 1]
+ [1 0]] 
+
+passed...
+detected error at (0, 1) for codeword : 
+[[0 0 1]
+ [1 0 1]
+ [1 1 0]]
+Corrected message_sequence : 
+ [[0 1]
+ [1 0]] 
+
+detected error at (0, 1) for codeword : 
+[[0 0 1]
+ [1 1 0]
+ [0 0 0]]
+Corrected message_sequence : 
+ [[0 1]
+ [1 1]] 
+
+detected error at (0, 0) for codeword : 
+[[0 0 1]
+ [1 1 0]
+ [0 1 0]]
+Corrected message_sequence : 
+ [[1 0]
+ [1 1]] 
+
+detected error at (0, 1) for codeword : 
+[[0 0 1]
+ [1 1 0]
+ [1 0 0]]
+Corrected message_sequence : 
+ [[0 1]
+ [1 1]] 
+
+passed...
+detected error at (1, 1) for codeword : 
+[[0 0 1]
+ [1 1 1]
+ [0 0 0]]
+Corrected message_sequence : 
+ [[0 0]
+ [1 0]] 
+
+detected error at (1, 0) for codeword : 
+[[0 0 1]
+ [1 1 1]
+ [0 1 0]]
+Corrected message_sequence : 
+ [[0 0]
+ [0 1]] 
+
+detected error at (1, 1) for codeword : 
+[[0 0 1]
+ [1 1 1]
+ [1 0 0]]
+Corrected message_sequence : 
+ [[0 0]
+ [1 0]] 
+
+passed...
+detected error at (0, 1) for codeword : 
+[[0 1 0]
+ [0 0 0]
+ [0 0 0]]
+Corrected message_sequence : 
+ [[0 0]
+ [0 0]] 
+
+passed...
+detected error at (0, 1) for codeword : 
+[[0 1 0]
+ [0 0 0]
+ [1 0 0]]
+Corrected message_sequence : 
+ [[0 0]
+ [0 0]] 
+
+detected error at (0, 0) for codeword : 
+[[0 1 0]
+ [0 0 0]
+ [1 1 0]]
+Corrected message_sequence : 
+ [[1 1]
+ [0 0]] 
+
+detected error at (1, 1) for codeword : 
+[[0 1 0]
+ [0 0 1]
+ [0 0 0]]
+Corrected message_sequence : 
+ [[0 1]
+ [0 1]] 
+
+passed...
+detected error at (1, 1) for codeword : 
+[[0 1 0]
+ [0 0 1]
+ [1 0 0]]
+Corrected message_sequence : 
+ [[0 1]
+ [0 1]] 
+
+detected error at (1, 0) for codeword : 
+[[0 1 0]
+ [0 0 1]
+ [1 1 0]]
+Corrected message_sequence : 
+ [[0 1]
+ [1 0]] 
+
+passed...
+detected error at (1, 1) for codeword : 
+[[0 1 0]
+ [0 1 0]
+ [0 1 0]]
+Corrected message_sequence : 
+ [[0 1]
+ [0 0]] 
+
+detected error at (1, 0) for codeword : 
+[[0 1 0]
+ [0 1 0]
+ [1 0 0]]
+Corrected message_sequence : 
+ [[0 1]
+ [1 1]] 
+
+detected error at (1, 1) for codeword : 
+[[0 1 0]
+ [0 1 0]
+ [1 1 0]]
+Corrected message_sequence : 
+ [[0 1]
+ [0 0]] 
+
+passed...
+detected error at (0, 1) for codeword : 
+[[0 1 0]
+ [0 1 1]
+ [0 1 0]]
+Corrected message_sequence : 
+ [[0 0]
+ [0 1]] 
+
+detected error at (0, 0) for codeword : 
+[[0 1 0]
+ [0 1 1]
+ [1 0 0]]
+Corrected message_sequence : 
+ [[1 1]
+ [0 1]] 
+
+detected error at (0, 1) for codeword : 
+[[0 1 0]
+ [0 1 1]
+ [1 1 0]]
+Corrected message_sequence : 
+ [[0 0]
+ [0 1]] 
+
+detected error at (1, 1) for codeword : 
+[[0 1 0]
+ [1 0 0]
+ [0 0 0]]
+Corrected message_sequence : 
+ [[0 1]
+ [1 1]] 
+
+detected error at (1, 0) for codeword : 
+[[0 1 0]
+ [1 0 0]
+ [0 1 0]]
+Corrected message_sequence : 
+ [[0 1]
+ [0 0]] 
+
+detected error at (1, 1) for codeword : 
+[[0 1 0]
+ [1 0 0]
+ [1 0 0]]
+Corrected message_sequence : 
+ [[0 1]
+ [1 1]] 
+
+passed...
+detected error at (0, 1) for codeword : 
+[[0 1 0]
+ [1 0 1]
+ [0 0 0]]
+Corrected message_sequence : 
+ [[0 0]
+ [1 0]] 
+
+detected error at (0, 0) for codeword : 
+[[0 1 0]
+ [1 0 1]
+ [0 1 0]]
+Corrected message_sequence : 
+ [[1 1]
+ [1 0]] 
+
+detected error at (0, 1) for codeword : 
+[[0 1 0]
+ [1 0 1]
+ [1 0 0]]
+Corrected message_sequence : 
+ [[0 0]
+ [1 0]] 
+
+passed...
+detected error at (0, 0) for codeword : 
+[[0 1 0]
+ [1 1 0]
+ [0 0 0]]
+Corrected message_sequence : 
+ [[1 1]
+ [1 1]] 
+
+detected error at (0, 1) for codeword : 
+[[0 1 0]
+ [1 1 0]
+ [0 1 0]]
+Corrected message_sequence : 
+ [[0 0]
+ [1 1]] 
+
+passed...
+detected error at (0, 1) for codeword : 
+[[0 1 0]
+ [1 1 0]
+ [1 1 0]]
+Corrected message_sequence : 
+ [[0 0]
+ [1 1]] 
+
+detected error at (1, 0) for codeword : 
+[[0 1 0]
+ [1 1 1]
+ [0 0 0]]
+Corrected message_sequence : 
+ [[0 1]
+ [0 1]] 
+
+detected error at (1, 1) for codeword : 
+[[0 1 0]
+ [1 1 1]
+ [0 1 0]]
+Corrected message_sequence : 
+ [[0 1]
+ [1 0]] 
+
+passed...
+detected error at (1, 1) for codeword : 
+[[0 1 0]
+ [1 1 1]
+ [1 1 0]]
+Corrected message_sequence : 
+ [[0 1]
+ [1 0]] 
+
+passed...
+passed...
+passed...
+passed...
+detected error at (1, 1) for codeword : 
+[[0 1 1]
+ [0 0 1]
+ [0 0 0]]
+Corrected message_sequence : 
+ [[0 1]
+ [0 1]] 
+
+passed...
+detected error at (1, 1) for codeword : 
+[[0 1 1]
+ [0 0 1]
+ [1 0 0]]
+Corrected message_sequence : 
+ [[0 1]
+ [0 1]] 
+
+detected error at (1, 0) for codeword : 
+[[0 1 1]
+ [0 0 1]
+ [1 1 0]]
+Corrected message_sequence : 
+ [[0 1]
+ [1 0]] 
+
+passed...
+detected error at (1, 1) for codeword : 
+[[0 1 1]
+ [0 1 0]
+ [0 1 0]]
+Corrected message_sequence : 
+ [[0 1]
+ [0 0]] 
+
+detected error at (1, 0) for codeword : 
+[[0 1 1]
+ [0 1 0]
+ [1 0 0]]
+Corrected message_sequence : 
+ [[0 1]
+ [1 1]] 
+
+detected error at (1, 1) for codeword : 
+[[0 1 1]
+ [0 1 0]
+ [1 1 0]]
+Corrected message_sequence : 
+ [[0 1]
+ [0 0]] 
+
+passed...
+passed...
+passed...
+passed...
+detected error at (1, 1) for codeword : 
+[[0 1 1]
+ [1 0 0]
+ [0 0 0]]
+Corrected message_sequence : 
+ [[0 1]
+ [1 1]] 
+
+detected error at (1, 0) for codeword : 
+[[0 1 1]
+ [1 0 0]
+ [0 1 0]]
+Corrected message_sequence : 
+ [[0 1]
+ [0 0]] 
+
+detected error at (1, 1) for codeword : 
+[[0 1 1]
+ [1 0 0]
+ [1 0 0]]
+Corrected message_sequence : 
+ [[0 1]
+ [1 1]] 
+
+passed...
+passed...
+passed...
+passed...
+passed...
+passed...
+passed...
+passed...
+passed...
+detected error at (1, 0) for codeword : 
+[[0 1 1]
+ [1 1 1]
+ [0 0 0]]
+Corrected message_sequence : 
+ [[0 1]
+ [0 1]] 
+
+detected error at (1, 1) for codeword : 
+[[0 1 1]
+ [1 1 1]
+ [0 1 0]]
+Corrected message_sequence : 
+ [[0 1]
+ [1 0]] 
+
+passed...
+detected error at (1, 1) for codeword : 
+[[0 1 1]
+ [1 1 1]
+ [1 1 0]]
+Corrected message_sequence : 
+ [[0 1]
+ [1 0]] 
+
+detected error at (0, 0) for codeword : 
+[[1 0 0]
+ [0 0 0]
+ [0 0 0]]
+Corrected message_sequence : 
+ [[0 0]
+ [0 0]] 
+
+detected error at (0, 1) for codeword : 
+[[1 0 0]
+ [0 0 0]
+ [0 1 0]]
+Corrected message_sequence : 
+ [[1 1]
+ [0 0]] 
+
+passed...
+detected error at (0, 1) for codeword : 
+[[1 0 0]
+ [0 0 0]
+ [1 1 0]]
+Corrected message_sequence : 
+ [[1 1]
+ [0 0]] 
+
+detected error at (1, 0) for codeword : 
+[[1 0 0]
+ [0 0 1]
+ [0 0 0]]
+Corrected message_sequence : 
+ [[1 0]
+ [1 0]] 
+
+detected error at (1, 1) for codeword : 
+[[1 0 0]
+ [0 0 1]
+ [0 1 0]]
+Corrected message_sequence : 
+ [[1 0]
+ [0 1]] 
+
+passed...
+detected error at (1, 1) for codeword : 
+[[1 0 0]
+ [0 0 1]
+ [1 1 0]]
+Corrected message_sequence : 
+ [[1 0]
+ [0 1]] 
+
+detected error at (1, 1) for codeword : 
+[[1 0 0]
+ [0 1 0]
+ [0 0 0]]
+Corrected message_sequence : 
+ [[1 0]
+ [0 0]] 
+
+detected error at (1, 0) for codeword : 
+[[1 0 0]
+ [0 1 0]
+ [0 1 0]]
+Corrected message_sequence : 
+ [[1 0]
+ [1 1]] 
+
+detected error at (1, 1) for codeword : 
+[[1 0 0]
+ [0 1 0]
+ [1 0 0]]
+Corrected message_sequence : 
+ [[1 0]
+ [0 0]] 
+
+passed...
+detected error at (0, 1) for codeword : 
+[[1 0 0]
+ [0 1 1]
+ [0 0 0]]
+Corrected message_sequence : 
+ [[1 1]
+ [0 1]] 
+
+detected error at (0, 0) for codeword : 
+[[1 0 0]
+ [0 1 1]
+ [0 1 0]]
+Corrected message_sequence : 
+ [[0 0]
+ [0 1]] 
+
+detected error at (0, 1) for codeword : 
+[[1 0 0]
+ [0 1 1]
+ [1 0 0]]
+Corrected message_sequence : 
+ [[1 1]
+ [0 1]] 
+
+passed...
+passed...
+detected error at (1, 1) for codeword : 
+[[1 0 0]
+ [1 0 0]
+ [0 1 0]]
+Corrected message_sequence : 
+ [[1 0]
+ [1 1]] 
+
+detected error at (1, 0) for codeword : 
+[[1 0 0]
+ [1 0 0]
+ [1 0 0]]
+Corrected message_sequence : 
+ [[1 0]
+ [0 0]] 
+
+detected error at (1, 1) for codeword : 
+[[1 0 0]
+ [1 0 0]
+ [1 1 0]]
+Corrected message_sequence : 
+ [[1 0]
+ [1 1]] 
+
+passed...
+detected error at (0, 1) for codeword : 
+[[1 0 0]
+ [1 0 1]
+ [0 1 0]]
+Corrected message_sequence : 
+ [[1 1]
+ [1 0]] 
+
+detected error at (0, 0) for codeword : 
+[[1 0 0]
+ [1 0 1]
+ [1 0 0]]
+Corrected message_sequence : 
+ [[0 0]
+ [1 0]] 
+
+detected error at (0, 1) for codeword : 
+[[1 0 0]
+ [1 0 1]
+ [1 1 0]]
+Corrected message_sequence : 
+ [[1 1]
+ [1 0]] 
+
+detected error at (0, 1) for codeword : 
+[[1 0 0]
+ [1 1 0]
+ [0 0 0]]
+Corrected message_sequence : 
+ [[1 1]
+ [1 1]] 
+
+passed...
+detected error at (0, 1) for codeword : 
+[[1 0 0]
+ [1 1 0]
+ [1 0 0]]
+Corrected message_sequence : 
+ [[1 1]
+ [1 1]] 
+
+detected error at (0, 0) for codeword : 
+[[1 0 0]
+ [1 1 0]
+ [1 1 0]]
+Corrected message_sequence : 
+ [[0 0]
+ [1 1]] 
+
+detected error at (1, 1) for codeword : 
+[[1 0 0]
+ [1 1 1]
+ [0 0 0]]
+Corrected message_sequence : 
+ [[1 0]
+ [1 0]] 
+
+passed...
+detected error at (1, 1) for codeword : 
+[[1 0 0]
+ [1 1 1]
+ [1 0 0]]
+Corrected message_sequence : 
+ [[1 0]
+ [1 0]] 
+
+detected error at (1, 0) for codeword : 
+[[1 0 0]
+ [1 1 1]
+ [1 1 0]]
+Corrected message_sequence : 
+ [[1 0]
+ [0 1]] 
+
+passed...
+passed...
+passed...
+passed...
+detected error at (1, 0) for codeword : 
+[[1 0 1]
+ [0 0 1]
+ [0 0 0]]
+Corrected message_sequence : 
+ [[1 0]
+ [1 0]] 
+
+detected error at (1, 1) for codeword : 
+[[1 0 1]
+ [0 0 1]
+ [0 1 0]]
+Corrected message_sequence : 
+ [[1 0]
+ [0 1]] 
+
+passed...
+detected error at (1, 1) for codeword : 
+[[1 0 1]
+ [0 0 1]
+ [1 1 0]]
+Corrected message_sequence : 
+ [[1 0]
+ [0 1]] 
+
+detected error at (1, 1) for codeword : 
+[[1 0 1]
+ [0 1 0]
+ [0 0 0]]
+Corrected message_sequence : 
+ [[1 0]
+ [0 0]] 
+
+detected error at (1, 0) for codeword : 
+[[1 0 1]
+ [0 1 0]
+ [0 1 0]]
+Corrected message_sequence : 
+ [[1 0]
+ [1 1]] 
+
+detected error at (1, 1) for codeword : 
+[[1 0 1]
+ [0 1 0]
+ [1 0 0]]
+Corrected message_sequence : 
+ [[1 0]
+ [0 0]] 
+
+passed...
+passed...
+passed...
+passed...
+passed...
+passed...
+detected error at (1, 1) for codeword : 
+[[1 0 1]
+ [1 0 0]
+ [0 1 0]]
+Corrected message_sequence : 
+ [[1 0]
+ [1 1]] 
+
+detected error at (1, 0) for codeword : 
+[[1 0 1]
+ [1 0 0]
+ [1 0 0]]
+Corrected message_sequence : 
+ [[1 0]
+ [0 0]] 
+
+detected error at (1, 1) for codeword : 
+[[1 0 1]
+ [1 0 0]
+ [1 1 0]]
+Corrected message_sequence : 
+ [[1 0]
+ [1 1]] 
+
+passed...
+passed...
+passed...
+passed...
+passed...
+passed...
+passed...
+passed...
+detected error at (1, 1) for codeword : 
+[[1 0 1]
+ [1 1 1]
+ [0 0 0]]
+Corrected message_sequence : 
+ [[1 0]
+ [1 0]] 
+
+passed...
+detected error at (1, 1) for codeword : 
+[[1 0 1]
+ [1 1 1]
+ [1 0 0]]
+Corrected message_sequence : 
+ [[1 0]
+ [1 0]] 
+
+detected error at (1, 0) for codeword : 
+[[1 0 1]
+ [1 1 1]
+ [1 1 0]]
+Corrected message_sequence : 
+ [[1 0]
+ [0 1]] 
+
+passed...
+passed...
+passed...
+passed...
+detected error at (1, 1) for codeword : 
+[[1 1 0]
+ [0 0 1]
+ [0 0 0]]
+Corrected message_sequence : 
+ [[1 1]
+ [0 1]] 
+
+detected error at (1, 0) for codeword : 
+[[1 1 0]
+ [0 0 1]
+ [0 1 0]]
+Corrected message_sequence : 
+ [[1 1]
+ [1 0]] 
+
+detected error at (1, 1) for codeword : 
+[[1 1 0]
+ [0 0 1]
+ [1 0 0]]
+Corrected message_sequence : 
+ [[1 1]
+ [0 1]] 
+
+passed...
+detected error at (1, 0) for codeword : 
+[[1 1 0]
+ [0 1 0]
+ [0 0 0]]
+Corrected message_sequence : 
+ [[1 1]
+ [1 1]] 
+
+detected error at (1, 1) for codeword : 
+[[1 1 0]
+ [0 1 0]
+ [0 1 0]]
+Corrected message_sequence : 
+ [[1 1]
+ [0 0]] 
+
+passed...
+detected error at (1, 1) for codeword : 
+[[1 1 0]
+ [0 1 0]
+ [1 1 0]]
+Corrected message_sequence : 
+ [[1 1]
+ [0 0]] 
+
+passed...
+passed...
+passed...
+passed...
+detected error at (1, 1) for codeword : 
+[[1 1 0]
+ [1 0 0]
+ [0 0 0]]
+Corrected message_sequence : 
+ [[1 1]
+ [1 1]] 
+
+passed...
+detected error at (1, 1) for codeword : 
+[[1 1 0]
+ [1 0 0]
+ [1 0 0]]
+Corrected message_sequence : 
+ [[1 1]
+ [1 1]] 
+
+detected error at (1, 0) for codeword : 
+[[1 1 0]
+ [1 0 0]
+ [1 1 0]]
+Corrected message_sequence : 
+ [[1 1]
+ [0 0]] 
+
+passed...
+passed...
+passed...
+passed...
+passed...
+passed...
+passed...
+passed...
+passed...
+detected error at (1, 1) for codeword : 
+[[1 1 0]
+ [1 1 1]
+ [0 1 0]]
+Corrected message_sequence : 
+ [[1 1]
+ [1 0]] 
+
+detected error at (1, 0) for codeword : 
+[[1 1 0]
+ [1 1 1]
+ [1 0 0]]
+Corrected message_sequence : 
+ [[1 1]
+ [0 1]] 
+
+detected error at (1, 1) for codeword : 
+[[1 1 0]
+ [1 1 1]
+ [1 1 0]]
+Corrected message_sequence : 
+ [[1 1]
+ [1 0]] 
+
+detected error at (0, 1) for codeword : 
+[[1 1 1]
+ [0 0 0]
+ [0 0 0]]
+Corrected message_sequence : 
+ [[1 0]
+ [0 0]] 
+
+detected error at (0, 0) for codeword : 
+[[1 1 1]
+ [0 0 0]
+ [0 1 0]]
+Corrected message_sequence : 
+ [[0 1]
+ [0 0]] 
+
+detected error at (0, 1) for codeword : 
+[[1 1 1]
+ [0 0 0]
+ [1 0 0]]
+Corrected message_sequence : 
+ [[1 0]
+ [0 0]] 
+
+passed...
+detected error at (1, 1) for codeword : 
+[[1 1 1]
+ [0 0 1]
+ [0 0 0]]
+Corrected message_sequence : 
+ [[1 1]
+ [0 1]] 
+
+detected error at (1, 0) for codeword : 
+[[1 1 1]
+ [0 0 1]
+ [0 1 0]]
+Corrected message_sequence : 
+ [[1 1]
+ [1 0]] 
+
+detected error at (1, 1) for codeword : 
+[[1 1 1]
+ [0 0 1]
+ [1 0 0]]
+Corrected message_sequence : 
+ [[1 1]
+ [0 1]] 
+
+passed...
+detected error at (1, 0) for codeword : 
+[[1 1 1]
+ [0 1 0]
+ [0 0 0]]
+Corrected message_sequence : 
+ [[1 1]
+ [1 1]] 
+
+detected error at (1, 1) for codeword : 
+[[1 1 1]
+ [0 1 0]
+ [0 1 0]]
+Corrected message_sequence : 
+ [[1 1]
+ [0 0]] 
+
+passed...
+detected error at (1, 1) for codeword : 
+[[1 1 1]
+ [0 1 0]
+ [1 1 0]]
+Corrected message_sequence : 
+ [[1 1]
+ [0 0]] 
+
+detected error at (0, 0) for codeword : 
+[[1 1 1]
+ [0 1 1]
+ [0 0 0]]
+Corrected message_sequence : 
+ [[0 1]
+ [0 1]] 
+
+detected error at (0, 1) for codeword : 
+[[1 1 1]
+ [0 1 1]
+ [0 1 0]]
+Corrected message_sequence : 
+ [[1 0]
+ [0 1]] 
+
+passed...
+detected error at (0, 1) for codeword : 
+[[1 1 1]
+ [0 1 1]
+ [1 1 0]]
+Corrected message_sequence : 
+ [[1 0]
+ [0 1]] 
+
+detected error at (1, 1) for codeword : 
+[[1 1 1]
+ [1 0 0]
+ [0 0 0]]
+Corrected message_sequence : 
+ [[1 1]
+ [1 1]] 
+
+passed...
+detected error at (1, 1) for codeword : 
+[[1 1 1]
+ [1 0 0]
+ [1 0 0]]
+Corrected message_sequence : 
+ [[1 1]
+ [1 1]] 
+
+detected error at (1, 0) for codeword : 
+[[1 1 1]
+ [1 0 0]
+ [1 1 0]]
+Corrected message_sequence : 
+ [[1 1]
+ [0 0]] 
+
+detected error at (0, 1) for codeword : 
+[[1 1 1]
+ [1 0 1]
+ [0 0 0]]
+Corrected message_sequence : 
+ [[1 0]
+ [1 0]] 
+
+passed...
+detected error at (0, 1) for codeword : 
+[[1 1 1]
+ [1 0 1]
+ [1 0 0]]
+Corrected message_sequence : 
+ [[1 0]
+ [1 0]] 
+
+detected error at (0, 0) for codeword : 
+[[1 1 1]
+ [1 0 1]
+ [1 1 0]]
+Corrected message_sequence : 
+ [[0 1]
+ [1 0]] 
+
+passed...
+detected error at (0, 1) for codeword : 
+[[1 1 1]
+ [1 1 0]
+ [0 1 0]]
+Corrected message_sequence : 
+ [[1 0]
+ [1 1]] 
+
+detected error at (0, 0) for codeword : 
+[[1 1 1]
+ [1 1 0]
+ [1 0 0]]
+Corrected message_sequence : 
+ [[0 1]
+ [1 1]] 
+
+detected error at (0, 1) for codeword : 
+[[1 1 1]
+ [1 1 0]
+ [1 1 0]]
+Corrected message_sequence : 
+ [[1 0]
+ [1 1]] 
+
+passed...
+detected error at (1, 1) for codeword : 
+[[1 1 1]
+ [1 1 1]
+ [0 1 0]]
+Corrected message_sequence : 
+ [[1 1]
+ [1 0]] 
+
+detected error at (1, 0) for codeword : 
+[[1 1 1]
+ [1 1 1]
+ [1 0 0]]
+Corrected message_sequence : 
+ [[1 1]
+ [0 1]] 
+
+detected error at (1, 1) for codeword : 
+[[1 1 1]
+ [1 1 1]
+ [1 1 0]]
+Corrected message_sequence : 
+ [[1 1]
+ [1 0]] 
+
+(8,4) rectangular parity code successfully tested for 1 bit error tests

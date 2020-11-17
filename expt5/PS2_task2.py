@@ -38,8 +38,8 @@ def validate_and_print_result(n, k, Generator_matrix):
     # convert datawords into codewords
     codewords = [np.mod(np.dot(dataword, Generator_matrix), 2)
                  for dataword in datawords]
-    test_codewords(n, k, datawords, codewords, Generator_matrix)
-    test_single_bit_error(n, k, datawords, codewords, Generator_matrix)
+    test_codewords(n, k, datawords, codewords, syndrome_decode, Generator_matrix)
+    test_single_bit_error(n, k, datawords, codewords, syndrome_decode, Generator_matrix)
 
 
 if __name__ == "__main__":

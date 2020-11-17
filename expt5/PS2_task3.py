@@ -5,7 +5,8 @@ Prathamesh Bagekari 4
 Akshat Bhat 5
 Arka Haldi 15
 '''
-def test_single_bit_error(n, k, datawords, codewords, Generator_matrix):
+import numpy as np
+def test_single_bit_error(n, k, datawords, codewords, syndrome_decode, Generator_matrix):
     print(f'Testing all n*2**k = {n*2**k} valid codewords')
     print()
 
@@ -24,7 +25,7 @@ def test_single_bit_error(n, k, datawords, codewords, Generator_matrix):
                     f'OOPS: Error decoding {codeword} ...expected {datawords[i]} got {pred_dataword}')
     print()
 
-def test_codewords(n, k, datawords, codewords, Generator_matrix):
+def test_codewords(n, k, datawords, codewords, syndrome_decode, Generator_matrix):
     print(f'Testing all 2**k = {2**k} valid codewords')
     print()
     for i, codeword in enumerate(codewords):
